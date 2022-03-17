@@ -3,8 +3,8 @@
 #change above if your python 3 environment has a different name
 
 #usage:
-#species2taxid.py list-of-species.txt outputfile.txt localdbfile.txt
-#if not using local file leave blank
+#species2taxid.py list-of-species.txt outputfile.txt tax2lin.txt "Viridiplantae"
+
 
 
 import sys
